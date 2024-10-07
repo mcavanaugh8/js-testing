@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lesson xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="max_lit_schema.xsd" subcontent_code="subContentCode" grade="4" unit="5" week="1" day="1" lesson="1"  type="Unit Introduction" duration="20">
+    <title>Foundational Literacy: Short Vowels</title>
+    <activity subcontent_code="" type="Introduction" duration="10" number="2">
+        <title>Introduce Distribute Student Book</title>
+        <learningOutcome type="Teacher Model On Page">RF.PA.8.a.1.i Articulate consonant and vowel sounds. ;; RF.PWR.3.a.1.iii Identify the primary sounds for vowels. ;; RF.PWR.3.a.1.i Produce short vowel sounds with common spellings: Letter Aa. ;; RF.PWR.3.b.1.i Produce short vowel sounds with common spellings: Letter Ee. ;; RF.PWR.3.c.1.i Produce short vowel sounds with common spellings: Letter Ii. ;; RF.PWR.3.d.1.i Produce short vowel sounds with common spellings: Letter Oo. ;; RF.PWR.3.e.1.i Produce major short vowel sounds with common spellings: Letter Uu.</learningOutcome>
+        <learningOutcome type="Teacher Model Off Page">RF.PWR.3.b.1.i Produce short vowel sounds with common spellings: Letter Ee.</learningOutcome>
+        <learningOutcome type="Student Focus">SL.PKI.12.1.i Listen actively to others with care during discussions.</learningOutcome>
+        <learningOutcome type="Student Supporting">RF.CP.2.b.1.i Locate the title of books.  ;; RF.CP.2.b.1.ii Locate the table of contents of books.</learningOutcome>
+        <learningOutcome type="Student Review">RF.F.5.a.1.i Use knowledge of grapheme-phoneme correspondences to read decodable words with accuracy and automaticity in context.</learningOutcome>
+    </activity>
+    <activity subcontent_code="subContentCode" type="Introduction" duration="10" number="2">
+        <title>Introduce Cumulative Review: Read to Build Fluency</title>
+        <learningOutcome type="Teacher Model On Page">Sample Value</learningOutcome>
+        <learningOutcome type="Teacher Model Off Page" />
+        <learningOutcome type="Student Focus">Sample Value</learningOutcome>
+        <learningOutcome type="Student Supporting">Sample Value</learningOutcome>
+        <learningOutcome type="Student Review" />
+        <subactivity subcontent_code="subContentCode" type="Type" duration="10">
+            <title>Sample Value</title>
+            <learningOutcome type="Teacher Model On Page">RF.PWR.3.b.1.i Produce short vowel sounds with common spellings: Letter Ee. ;; RF.PWR.3.c.1.i Produce short vowel sounds with common spellings: Letter Ii. ;;</learningOutcome>
+            <learningOutcome type="Teacher Model Off Page" />
+            <learningOutcome type="Student Focus">RF.F.5.a.1.i Use knowledge of grapheme-phoneme correspondences to read decodable words with accuracy and automaticity in context.</learningOutcome>
+            <learningOutcome type="Student Supporting">RF.CP.2.b.1.i Locate the title of books.  ;; RF.CP.2.b.1.ii Locate the table of contents of books.</learningOutcome>
+            <learningOutcome type="Student Review" />
+        </subactivity>
+    </activity>
+</lesson>

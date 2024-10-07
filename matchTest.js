@@ -32,7 +32,7 @@ SL.CC.1.4.ii Engage effectively in teacher-led discussions with diverse partners
 
  `
 
-console.log(str.match(/(^)(RL|RI|L|W|SL|RF)(\.)*([A-Z]{1,4})*(\.)*(\d)*(\.)*([a-z])*(\.)*(\d|K)*(\.)*([a-z]{1,4})*/).length)
+// console.log(str.match(/(^)(RL|RI|L|W|SL|RF)(\.)*([A-Z]{1,4})*(\.)*(\d)*(\.)*([a-z])*(\.)*(\d|K)*(\.)*([a-z]{1,4})*/).length)
 
 /***
  * 
