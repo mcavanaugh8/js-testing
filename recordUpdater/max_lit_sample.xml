@@ -10,7 +10,7 @@
         <learningOutcome type="Student Supporting">RF.CP.2.b.1.i Locate the title of books.  ;; RF.CP.2.b.1.ii Locate the table of contents of books.</learningOutcome>
         <learningOutcome type="Student Review">RF.F.5.a.1.i Use knowledge of grapheme-phoneme correspondences to read decodable words with accuracy and automaticity in context.</learningOutcome>
     </activity>
-    <activity subcontent_code="subContentCode" type="Introduction" duration="10" number="2">
+    <activity subcontent_code="" type="Introduction" duration="10" number="2">
         <title>Introduce Cumulative Review: Read to Build Fluency</title>
         <learningOutcome type="Teacher Model On Page">Sample Value</learningOutcome>
         <learningOutcome type="Teacher Model Off Page" />

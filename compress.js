@@ -6,7 +6,7 @@ const AdmZip = require('adm-zip');
 const directoryPath = path.join(__dirname, 'test_zip');
 
 // Output .docx file
-const outputDocx = path.join(__dirname, 'output.docx');
+const outputDocx = path.join(__dirname, 'MAXLiteracy_National_GkU1W1D1L2.docx');
 
 // Function to recursively add files and directories to an array
 function getFilesRecursively(directory, fileList = []) {
