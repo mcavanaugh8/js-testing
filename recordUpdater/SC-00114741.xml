@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lesson xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="max_lit_schema.xsd" code="SC-00114303" intended_grade="4" intended_unit="1" intended_week="1" intended_day="2" lesson_number="5" lesson_type="Unit Introduction" lesson_time="20" number_of_activities="4">
+    <title>Unit Introduction: Testing Update</title>
+    <activity code="SC-00114304" activity_type="Purpose Setting" activity_time="1" activity_number="1">
+        <title>Set Purpose: Test</title>
+        <learningOutcome type="Teacher Model On Page">SL.CC.1.4.xvii Engage effectively in one-on-one discussions with diverse partners on grade 4 topics.</learningOutcome>
+        <learningOutcome type="Teacher Model Off Page" />
+        <learningOutcome type="Student Focus">SL.CC.3.4.i Listen actively.</learningOutcome>
+        <learningOutcome type="Student Supporting" />
+        <learningOutcome type="Student Review" />
+    </activity>
+    <activity code="SC-00114305" activity_type="Multimedia" activity_time="6" activity_number="2">
+        <title>Watch Unit Video</title>
+        <learningOutcome type="Teacher Model On Page" />
+        <learningOutcome type="Teacher Model Off Page" />
+        <learningOutcome type="Student Focus">SL.CC.1.4.xvii Engage effectively in one-on-one discussions with diverse partners on grade 4 topics. ;; L.VAU.4.b.4.i Acquire grade-appropriate general academic words and phrases. ;; L.VAU.4.b.4.iii Acquire grade-appropriate domain-specific words and phrases. ;; L.VAU.4.b.4.vii Acquire grade-appropriate words and phrases that are basic to a particular topic being discussed. ;; SL.CC.1.4.xii Express ideas clearly in collaborative discussions. ;; SL.PKI.1.4.ii Speak with appropriate volume to communicate ideas effectively. ;; SL.CC.2.4.i Follow agreed-upon rules for discussions. ;; SL.CC.3.4.i Listen actively.</learningOutcome>
+        <learningOutcome type="Student Supporting" />
+        <learningOutcome type="Student Review" />
+    </activity>
+    <activity code="SC-00114306" activity_type="Introduction" activity_time="10" activity_number="3">
+        <title>Introduce Observations
+            <![CDATA[&]]> Experiences: Storms Test</title>
+        <learningOutcome type="Teacher Model On Page" />
+        <learningOutcome type="Teacher Model Off Page" />
+        <learningOutcome type="Student Focus">SL.CC.1.4.ii Engage effectively in teacher-led discussions with diverse partners on grade 4 topics. ;; SL.CC.1.4.iii Engage effectively in one-on-one discussions with diverse partners on grade 4 texts. ;; SL.CC.1.4.v Engage effectively in teacher-led discussions with diverse partners on grade 4 texts. ;; SL.CC.1.4.xii Express ideas clearly in collaborative discussions. ;; SL.PKI.1.4.ii Speak with appropriate volume to communicate ideas effectively. ;; SL.CC.2.4.i Follow agreed-upon rules for discussions. ;; SL.CC.3.4.i Listen actively. ;; SL.CC.1.4.xvii Engage effectively in one-on-one discussions with diverse partners on grade 4 topics. ;; L.VAU.4.b.4.vii Acquire grade-appropriate words and phrases that are basic to a particular topic being discussed. ;; RI.KID.3.g.4.ii Use text features, such as type, headings, and graphics, to categorize information. ;; RI.CS.1.h.4.iii Interpret information from text features in both print and digital formats. ;; RI.IKI.5.c.4.i Interpret visual, oral, or quantitative information.</learningOutcome>
+        <learningOutcome type="Student Supporting" />
+        <learningOutcome type="Student Review" />
+    </activity>
+    <activity code="SC-00114307" activity_type="Class Discussion" activity_time="2" activity_number="4">
+        <title>Share Responses: Test!</title>
+        <learningOutcome type="Teacher Model On Page">SL.CC.8.4.ii Respond to specific questions to clarify or follow up on information.</learningOutcome>
+        <learningOutcome type="Teacher Model Off Page" />
+        <learningOutcome type="Student Focus">SL.CC.1.4.ii Engage effectively in teacher-led discussions with diverse partners on grade 4 topics. ;; SL.CC.1.4.iii Engage effectively in one-on-one discussions with diverse partners on grade 4 texts. ;; SL.CC.1.4.v Engage effectively in teacher-led discussions with diverse partners on grade 4 texts. ;; SL.CC.1.4.xvii Engage effectively in one-on-one discussions with diverse partners on grade 4 topics. ;; SL.CC.1.4.xii Express ideas clearly in collaborative discussions. ;; SL.PKI.1.4.ii Speak with appropriate volume to communicate ideas effectively. ;; SL.CC.2.4.i Follow agreed-upon rules for discussions. ;; SL.CC.3.4.i Listen actively.</learningOutcome>
+        <learningOutcome type="Student Supporting" />
+        <learningOutcome type="Student Review" />
+    </activity>
+</lesson>
