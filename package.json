@@ -15,8 +15,13 @@
     "fetch": "^1.1.0",
     "fontoxpath": "^3.32.0",
     "mammoth": "^1.8.0",
+    "pdf-lib": "^1.17.1",
+    "pdf-parse": "^1.1.1",
+    "pdf.js-extract": "^0.2.1",
+    "pdfjs-dist": "^4.8.69",
     "string-similarity": "^4.0.4",
     "xml-js": "^1.6.11",
+    "xml2js": "^0.6.2",
     "xmldom": "^0.6.0",
     "xpath": "^0.0.34",
     "zip-local": "^0.3.5"
